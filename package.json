@@ -1,0 +1,17 @@
+{
+  "name": "eva3_-frond-end",
+  "version": "0.0.1",
+  "description": "Eval3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "io",
+  "license": "MIT"
+}
